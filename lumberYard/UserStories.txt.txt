@@ -1,0 +1,11 @@
+5 user story formats:
+
+	As the owner of a saw mill, I want to sell the wood to the yard for a good price.
+
+	As a buyer, I want to purchase wood, so that I can do so cheaper and in larger quantity.
+
+	As the owner, I want to evaluate the demand of certain woods, so that I can act accordingly.
+
+	As an employee, I want to find wood pieces with ease, so that I can satisfy customers.
+
+	As an equipment operator, I want to know which woods are needed most, so I can put them in the appropriate spot.

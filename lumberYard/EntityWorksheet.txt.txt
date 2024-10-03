@@ -1,0 +1,29 @@
+Sam Swagger
+COMC1714 Entities Worksheet
+
+Business transaction:
+	Receipt(Reciept_Num, Receipt_Date, Wood_ID, Tax, Total_Price, Buyer_ID, Yard_ID)
+Transaction line items:
+ 	
+Product or service related to a transaction:
+	Wood(Wood_ID, Type_Wood)
+	Inventory(Inventory_ID, Wood1_ID, Wood1_Price, Amount_Wood1, Wood2_ID, Wood2_Price, Amount_Wood2, Wood3_ID, Wood3_Price, Amount_Wood3, Wood4_ID, Wood4_Price, Amount_Wood4)
+Roles of people:
+ 	Jobs(Job_ID, Job)
+Place of transaction or service:
+	Lumber_Yard(Yard_ID, Housing_Units, Income, Inventory_ID, Address_ID, Owner_ID, Forklift_ID, Num_Forklifts)
+Noteworthy events:
+ 	
+Physical objects:
+	People(People_ID, Phone_Number, First_Name, Last_Name, Middle_Initia, Pay, Jobs_ID, Address_ID)
+	Transport(Transport_ID, Type_Transport, Fuel, Cost_Fuel)
+Locations:
+ 	Address(Address_ID, Address_Num, State, City, Zip)
+Descriptions of things (text, unit of measurement, time period, etc.):
+ 	
+Catalogs:
+ 	
+Containers of other things:
+	
+Things in a container: 
+	
